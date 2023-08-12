@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartMenu.unity
+    guid: f39151c3fbcf38e4990d3a0f6eedd77a
+  - enabled: 1
+    path: Assets/Scenes/CutScene.unity
+    guid: 98445e10ab8da6c458fba364a365388e
+  - enabled: 1
+    path: Assets/Scenes/Street0.unity
+    guid: 65176d3233679c94d8d9bb255a79a264
+  - enabled: 1
+    path: Assets/Scenes/School1.unity
+    guid: 4586e0d023293c240af454250c281889
+  - enabled: 1
+    path: Assets/Scenes/Gym2.unity
+    guid: 332dcd2f941a5c14d9b482188cc73bee
+  - enabled: 1
+    path: Assets/Scenes/Library3.unity
+    guid: ccbef5467e3f32e498e178a303aaae0d
+  - enabled: 1
+    path: Assets/Scenes/Canteen4.unity
+    guid: e233b9a362d873d4ba77825cfa5f4fd8
+  - enabled: 1
+    path: Assets/Scenes/SchoolFinal5.unity
+    guid: 86b476b73ba7d58498a45d57d9799c95
+  - enabled: 1
+    path: Assets/Scenes/ClassroomFinal6.unity
+    guid: 57a84cc457a1a1544b940d0e3f558abb
+  m_configObjects: {}
