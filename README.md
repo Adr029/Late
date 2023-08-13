@@ -30,5 +30,6 @@ The following features are incorporated in the game:
 * Player Lives
 * Player Movement (Walk, Run, Crawl)
 * Save and Load System
+* Sprite Animation
 
 The game was made in Unity.
