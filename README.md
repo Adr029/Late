@@ -9,8 +9,11 @@ Late is a project done for our Game Development course. The game is about a stud
 <br>
 
 ![Screenshot (513)](https://github.com/Adr029/Late/assets/108637165/bd96cfa5-369d-4a2e-8d8e-97f3f72f355d)
+--- 
 ![Screenshot (519)](https://github.com/Adr029/Late/assets/108637165/ce02099f-178e-4038-9372-9372973511b5)
+--- 
 ![Screenshot (520)](https://github.com/Adr029/Late/assets/108637165/ef647153-9c4c-4294-913e-8106941e4a69)
+--- 
 ![Screenshot (521)](https://github.com/Adr029/Late/assets/108637165/89b19c85-6079-4670-b4ca-d7ab049e55f6)
 
 
