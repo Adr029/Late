@@ -1,7 +1,7 @@
 # Late
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
 
-Late is a project done for our Game Development course. The game is about a student who missed the school bus and has to run to his room. The game features multiple levels that the player has to navigate. 
+Late is a project done for our Game Development course. The game is about a student who missed the school bus and has to run to his room. The game features multiple levels that the player has to navigate. It is made for Windows computers.
 
 <details>
 <summary>Screenshots</summary>
